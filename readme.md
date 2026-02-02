@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0080&height=250&section=header&text=nodeadcode&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20Fun%20Stuff%20with%20Code!%20%E2%9C%A8&descAlign=50&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=250&section=header&text=nodeadcode&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20Fun%20Stuff%20with%20Code!%20%E2%9C%A8&descAlign=50&descAlignY=60" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF00FF&center=true&vCenter=true&width=1000&lines=Code+Ninja+%F0%9F%A5%B7;Motion+Artist+%F0%9F%8E%A8;App+Wizard+%F0%9F%AA%84;Turning+Ideas+into+Magic!+%F0%9F%8C%9F" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFA500&center=true&vCenter=true&width=1000&lines=Code+Ninja+%F0%9F%A5%B7;Motion+Artist+%F0%9F%8E%A8;App+Wizard+%F0%9F%AA%84;Turning+Ideas+into+Magic!+%F0%9F%8C%9F" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nodeadcode&label=Fun%20Counter&color=FF0080&style=for-the-badge" alt="nodeadcode" />
+  <img src="https://komarev.com/ghpvc/?username=nodeadcode&label=Sunset%20Views&color=FF8C00&style=for-the-badge" alt="nodeadcode" />
 </p>
 
 ---
@@ -53,17 +53,17 @@ I'm a **Full-Stack Wizard** and **Animation Fanatic**! I love making things look
 
 ---
 
-### 📊 Gaming Stats
+### 📊 Sunset Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nodeadcode&show_icons=true&theme=radical&hide_border=true&bg_color=1A1B27&title_color=FF0080&icon_color=FF0080&text_color=9ECE6A" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodeadcode&layout=compact&theme=radical&hide_border=true&bg_color=1A1B27&title_color=FF0080&text_color=9ECE6A" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nodeadcode&show_icons=true&theme=radical&hide_border=true&bg_color=1A1B27&title_color=FF8C00&icon_color=FF8C00&text_color=FFD700" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodeadcode&layout=compact&theme=radical&hide_border=true&bg_color=1A1B27&title_color=FF8C00&text_color=FFD700" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0080&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=100&section=footer" />
 </div>
 
 </div>
