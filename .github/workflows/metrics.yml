@@ -1,0 +1,42 @@
+name: Metrics
+on:
+  # Schedule updates (every 12 hours)
+  schedule: [{cron: "0 */12 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing to main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          # Determine the secret name you'll use in your repository
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: nodeadcode
+          template: classic
+          base: header, community, repositories, metadata
+          config_timezone: UTC
+          theme: tokyonight
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_lines: yes
+          plugin_introduction: yes
+          plugin_introduction_title: yes
