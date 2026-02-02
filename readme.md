@@ -1,50 +1,51 @@
 <div align="center">
 
-<img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&section=header&text=nodeadcode&fontSize=90&fontAlignY=35&desc=Software%20Architecture%20%7C%20Full-Stack%20Systems%20%7C%20Motion%20Design&descAlign=50&descAlignY=60&fontColor=ccd6f6" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Building+Scalable+Systems+%F0%9F%9B%A0%EF%B8%8F;Designing+Fluid+Animations+%F0%9F%8E%AC;Creating+Impactful+Apps+%F0%9F%93%B1;End-to-End+Product+Development+%F0%9F%9A%80" />
+## Software Architect & Motion Designer
+**Building resilient, end-to-end digital products with technical precision and creative flair.**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nodeadcode&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="nodeadcode" />
-</p>
-
----
-
-### 👋 About Me
-
-I’m **nodeadcode (अमर)**, a software architect blending technical precision with creative motion. 
-
-- 🚀 **Focus**: High-performance backends and seamless cross-platform applications.
-- 🎬 **Creative**: Motion designer specializing in UI/UX animations and storytelling.
-- 🛠️ **Full-Stack**: From PostgreSQL optimizations to Flutter animations.
+[Contact Me](mailto:nodeadcode@gmail.com) • [LinkedIn](#) • [Portfolio](#)
 
 ---
 
-### 🎨 My Creative Flow
+### 🛠️ Domains of Expertise
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nodeadcode&theme=tokyonight&area=true&hide_border=true" width="100%" />
-</div>
-
----
-
-### 🚀 Featured Repositories
-
-<div align="center">
-
-| Project | Description | Tech |
+| 🏗️ Architecture & Backend | 💻 Interfaces & Frontend | 🎬 Motion & Animation |
 | :--- | :--- | :--- |
-| 🛡️ **[Group-Message-Sender](https://github.com/nodeadcode/Group-Message-Sender)** | Enterprise-grade Telegram automation. | Python |
-| 🌐 **[Telegram-Website](https://github.com/nodeadcode/Telegram-Website)** | High-fidelity web platform for messaging services. | React |
-| 🎬 **[Animation-Showcase](https://github.com/nodeadcode/Animation-Showcase)** | Experimental 3D and 2D motion gallery. | Blender |
+| **Scalable Systems**: Designing robust Python (FastAPI/Django) and Node.js backends. | **User-Centric UI**: Crafting seamless experiences with Flutter, React, and TypeScript. | **Visual Storytelling**: Bringing brands to life through 3D/2D animation and UI motion. |
+| **Data Integrity**: Optimized SQL/NoSQL schemas (PostgreSQL, MongoDB). | **Cross-Platform**: Expertise in responsive web and mobile delivery. | **Technical Art**: Blending code with motion in Blender and After Effects. |
 
+---
+
+### 🚀 Selected Engineering Work
+
+#### 🛡️ [Group-Message-Sender](https://github.com/nodeadcode/Group-Message-Sender)
+*Enterprise-grade automation for Telegram ecosystem management.*
+- **Outcome**: Streamlined high-volume messaging workflows with modular, resilient Python architecture.
+
+#### 🌐 [Telegram-Website](https://github.com/nodeadcode/Telegram-Website)
+*High-fidelity web platform for real-time messaging services.*
+- **Outcome**: Delivered a responsive, low-latency interface using TypeScript and React.
+
+#### 🎬 [Animation-Showcase](https://github.com/nodeadcode/Animation-Showcase)
+*A collection of technical motion experiments.*
+- **Outcome**: Demonstrated the intersection of UI principles and advanced motion graphics.
+
+---
+
+### 📊 Professional Metrics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nodeadcode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=64ffda&icon_color=64ffda&text_color=8892b0" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodeadcode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64ffda&text_color=8892b0" />
 </div>
 
 ---
 
-### 🐍 Contribution Journey
+### 🐍 Technical Activity
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/nodeadcode/nodeadcode/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -52,17 +53,8 @@ I’m **nodeadcode (अमर)**, a software architect blending technical precis
 
 ---
 
-### 📫 Let's Build Together
-
-<p align="center">
-  <a href="mailto:nodeadcode@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nodeadcode@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/nodeadcode">
-    <img src="https://img.shields.io/badge/GitHub-nodeadcode-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0D1117&height=100&section=footer&fontColor=ccd6f6" />
+</div>
+
 </div>
